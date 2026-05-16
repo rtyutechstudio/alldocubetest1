@@ -5,6 +5,7 @@
 #
 
 COMMON_PATH := device/alldocube/t1030m
+DEVICE_PATH := device/alldocube/t1030m
 
 TARGET_RECOVERY_DEVICE_DIRS := \
     $(COMMON_PATH) \
