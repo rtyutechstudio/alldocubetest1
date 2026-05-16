@@ -1,3 +1,5 @@
+
+hw_module_info.ko
 mkp.ko
 bootprof.ko
 dbgtop-drm.ko
@@ -168,7 +170,6 @@ mtk-pm-domain-disable-unused.ko
 sec.ko
 uload_ind.ko
 load_track.ko
-hw_module_info.ko
 hxchipset.ko
 hxchipset_83102.ko
 nt36523.ko
