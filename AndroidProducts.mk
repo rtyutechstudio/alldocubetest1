@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_iPlay50_Pro.mk
+    $(LOCAL_DIR)/t1030m.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_iPlay50_Pro-eng
+    t1030m-eng
