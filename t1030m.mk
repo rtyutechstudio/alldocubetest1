@@ -13,13 +13,13 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 # Product Specifics
 PRODUCT_NAME := t1030m
 PRODUCT_DEVICE := t1030m
-PRODUCT_BRAND := Alldocube
+PRODUCT_BRAND := alldocube
 PRODUCT_MODEL := iPlay 50 Pro
-PRODUCT_MANUFACTURER := Alldocube
+PRODUCT_MANUFACTURER := alldocube
 
 PRODUCT_GMS_CLIENTID_BASE := android-alldocube
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=t1030m \
     PRODUCT_DEVICE=t1030m \
-    PRIVATE_BUILD_DESC="Alldocube/iPlay50_Pro/T1030M:13/TP1A.220624.014/1689926629:user/release-keys"
+    PRIVATE_BUILD_DESC="alldocube/iPlay50_Pro/T1030M:13/TP1A.220624.014/1689926629:user/release-keys"
