@@ -91,6 +91,10 @@
 /lib/modules/clk-mt6789-bus.ko: /lib/modules/clk-common.ko /lib/modules/aee_aed.ko /lib/modules/mrdump.ko
 /lib/modules/log_store.ko:
 /lib/modules/mt6375.ko:
+/lib/modules/hw_module_info.ko:
+/lib/modules/hxchipset.ko: /lib/modules/hw_module_info.ko
+/lib/modules/hxchipset_83102.ko: /lib/modules/hw_module_info.ko
+/lib/modules/nt36523.ko: /lib/modules/hw_module_info.ko
 /lib/modules/clk-mt6789-mfgcfg.ko: /lib/modules/clk-common.ko /lib/modules/aee_aed.ko /lib/modules/mrdump.ko
 /lib/modules/mediatek-drm.ko: /lib/modules/cmdq_helper_inf.ko /lib/modules/mmqos-common.ko /lib/modules/mtk-mmdvfs-debug.ko /lib/modules/mtk-mmdvfs.ko /lib/modules/mtk_dramc.ko /lib/modules/mtk_disp_notify.ko /lib/modules/mtk_panel_ext.ko /lib/modules/leds-mtk.ko /lib/modules/clkbuf.ko /lib/modules/mtk-mml.ko /lib/modules/system_heap.ko /lib/modules/mtk_sync.ko /lib/modules/mtk_slbc.ko /lib/modules/mtk-icc-core.ko /lib/modules/mtk-cmdq-drv-ext.ko /lib/modules/device-apc-common.ko /lib/modules/mtk-smi-dbg.ko /lib/modules/mtk-smi.ko /lib/modules/emi.ko /lib/modules/emi-mpu.ko /lib/modules/vcp_status.ko /lib/modules/iommu_debug.ko /lib/modules/mmprofile.ko /lib/modules/irq-dbg.ko /lib/modules/clk-common.ko /lib/modules/aee_aed.ko /lib/modules/mrdump.ko
 /lib/modules/charger_class.ko:
