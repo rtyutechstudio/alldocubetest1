@@ -36,7 +36,6 @@ TARGET_NO_BOOTLOADER := true
 
 # Build hacks
 BUILD_BROKEN_DUP_RULES := true
-BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
 
 # DTBO
 BOARD_KERNEL_SEPARATED_DTBO := true
@@ -165,12 +164,9 @@ ALLOW_MISSING_DEPENDENCIES := true
 TARGET_OTA_ASSERT_DEVICE := iPlay50_Pro
 
 
-# TWRP Configs
-TW_DEVICE_VERSION := iPlay50_Pro
-
 # Device Resolution
 override TARGET_SCREEN_WIDTH := 1200
-override TARGET_SCREEN_HEIGHT := 1920
+override TARGET_SCREEN_HEIGHT := 2000
 
 # CPU Temp
 override TW_CUSTOM_CPU_TEMP_PATH := /sys/devices/virtual/thermal/thermal_zone28/temp
